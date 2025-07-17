@@ -2,6 +2,8 @@
 
 I have added a simple GUI to make this application a little easier to use.  Simply paste the URL for the book and select a directory for it to end up in.
 
+<img width="702" height="351" alt="Capture" src="https://github.com/user-attachments/assets/7cebeaca-3562-4d94-b7c6-6f5cec8f9a2e" />
+
 
 # Original EPUB Downloader Info
 
