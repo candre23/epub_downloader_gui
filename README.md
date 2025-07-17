@@ -1,4 +1,9 @@
-# EPUB Downloader
+# GUI
+
+I have added a simple GUI to make this application a little easier to use.  Simply paste the URL for the book and select a directory for it to end up in.
+
+
+# Original EPUB Downloader Info
 
 This script downloads an ebook from an online reader and creates an EPUB file for offline viewing.
 
